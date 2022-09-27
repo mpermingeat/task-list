@@ -1,0 +1,38 @@
+{
+    "task":[
+        {
+            "id": 1,
+            "text": "Terminar primer modulo",
+            "day": "Agosto 5 a las 12:00",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "Terminar segundo modulo",
+            "day": "Agosto 12 las 12:00",
+            "reminder": true
+        },
+        {
+            "id": 3,
+            "text": "Terminar tercer modulo",
+            "day": "Septiembre 5 a las 12:00",
+            "reminder": false
+        },
+        {
+            "id": 4,
+            "text": "Leer libro",
+            "day": "Septiembre 15 a las 12:00",
+            "reminder": false
+        },
+        {
+            "id": 5,
+            "text": "Ponete la pilas puto",
+            "day": "Octubre 15 a las 12:00",
+            "reminder": false
+        }
+
+
+    ] 
+
+
+}
